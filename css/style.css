@@ -20,27 +20,28 @@ h1 {
 .aboutme{
     background-color: honeydew;
     font-family: fantasy;
+    font-size: large;
 }
 .about {
     color: skyblue;
     font-size: large;
     text-underline-position:  below;
     float: inline-start;
+    font-size: large;
 }
 .list {
     color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: oblique;
     font-style: oblique;
 }
 .contact {
     color: black;
     font-weight: bolder;
-    background-color: whitesmoke;
 }
 .history1 {
     font-weight: normal;
-    font-family: --system, BlinkappleMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     float: left;
+    background-color: honeydew;
 }
 .column{
     float:right;
@@ -48,6 +49,7 @@ h1 {
     font-style: inherit;
     font-weight: medium;
     font-size: large;
+    background-color: honeydew;
 }
 .list 2{
     color: black;
@@ -55,21 +57,22 @@ h1 {
     font-style: oblique
 }
 .sh {
-    font-family: inherit;
+    font-family: fantasy;
     font-weight: bolder;
     font-style: inherit;
-    color: turquoise;
+    color: skyblue;
 }
 .ej {
     float: inline-end;
-    font-family: monospace;
+    font-family: fantasy;
     font-weight: bolder;
     font-style: oblique;
-    color: navy;
+    color: skyblue;
     font-size: larger;
+    background-color: honeydew;
 }
 .sidebar{
-    font-size: normal;
+    font-size: large;
     font-weight: medium;
     font-family: inherit;
     float: left;
@@ -78,4 +81,19 @@ h1 {
 .reason {
     font-weight: bolder;
     font-style: oblique;
+}
+.whole {
+    background-color: honeydew;
+    font-style: oblique;
+}
+.rp {
+    font-style: oblique;
+    color: skyblue;
+    float: center;
+    font-size: large;
+}
+@media all and (min-width: 480px) and (max-width: 1500px) {
+    body{
+        background-color: honeydew;
+    }
 }
