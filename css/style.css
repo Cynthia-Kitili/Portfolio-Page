@@ -1,0 +1,81 @@
+h1 {
+    font-style: inherit;
+    color: black;
+}
+.profession{
+    color: black;
+    float: left;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: honeydew;
+}
+.test-box{
+    float: left;
+    border: 2px;
+    padding: 2px;
+    margin: 10px;
+    background-color: grey:
+}
+.aboutme{
+    background-color: honeydew;
+    font-family: fantasy;
+}
+.about {
+    color: skyblue;
+    font-size: large;
+    text-underline-position:  below;
+    float: inline-start;
+}
+.list {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+.contact {
+    color: black;
+    font-weight: bolder;
+    background-color: whitesmoke;
+}
+.history1 {
+    font-weight: normal;
+    font-family: --system, BlinkappleMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    float: left;
+}
+.column{
+    float:right;
+    width: 700px;
+    font-style: inherit;
+    font-weight: medium;
+    font-size: large;
+}
+.list 2{
+    color: black;
+    font-family: sans-serif;
+    font-style: oblique
+}
+.sh {
+    font-family: inherit;
+    font-weight: bolder;
+    font-style: inherit;
+    color: turquoise;
+}
+.ej {
+    float: inline-end;
+    font-family: monospace;
+    font-weight: bolder;
+    font-style: oblique;
+    color: navy;
+    font-size: larger;
+}
+.sidebar{
+    font-size: normal;
+    font-weight: medium;
+    font-family: inherit;
+    float: left;
+    width: 50%;
+}
+.reason {
+    font-weight: bolder;
+    font-style: oblique;
+}
